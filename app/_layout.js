@@ -1,5 +1,7 @@
+import React from 'react';
 import {Stack} from 'expo-router'
 
-export default function Layout(){
+const Layout =()=>{
     return <Stack/>
 }
+export default Layout
